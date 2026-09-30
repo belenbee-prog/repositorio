@@ -3,4 +3,8 @@ linea 2
 linea3
 linea4
 linea5
+<<<<<<< HEAD
 linea6 creada por VisualStudio Code
+=======
+linea6 creada en GitHub 
+>>>>>>> df45826be27bdad71bd8bdc9f8e38e4ae5dfe3c1
